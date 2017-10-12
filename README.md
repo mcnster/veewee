@@ -1,6 +1,8 @@
 # About this 'mcnster' fork of Veewee
 
-(Find the project's original README.md in [doc/README.md](doc/README.md).)
+(Find the project's original REAMDE.md at [README-ORIG.md](README-ORIG.md).)
+
+The purpose of this fork is to bring some or all of the Veewee [templates](templates) up to date with the state of current (2017) distribution releases and to track new templates that I find useful.
 
 
 ## Code changes
