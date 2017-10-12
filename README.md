@@ -5,7 +5,7 @@
 
 ## Code changes
 
-* Replaced ':paranoid' with ':verify_host_key'.
+* Replaced ':paranoid' with ':verify_host_key' to suppress annoying deprecation messages.
 
 
 ## General notes
